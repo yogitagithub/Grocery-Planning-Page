@@ -1,0 +1,76 @@
+.product-plan{
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(190, 9, 9);
+    font-family: cursive;
+    cursor: pointer;
+    text-align: center;
+}
+
+.product-month{
+    color: rgb(5, 87, 32);
+    text-align: center;
+    font-size: 35px;
+}
+
+.product-input{
+    position: absolute;
+    margin: auto;
+    font-size: 26px;
+    text-align: center;
+    border-radius: 11px;
+    padding: 7px 30px;
+    width: 30%;
+    left: 34%;
+    top: 34%;
+}
+
+.product-add{
+    position: absolute;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 5%;
+    left: 63%;
+    top: 36%;
+}
+
+.table{
+    font-size: 29px;
+    margin-left: 460px;
+    margin-top: 110px;
+}
+
+.purchase-header{
+    margin-left: 120px;
+}
+
+.remove-header{
+    margin-left: 47px;
+}
+
+.purchase-button{
+    display: flexbox;
+    width: 60%;
+    font-size: 1.3rem;
+    margin: 10px 0;
+    padding: 3px 0;
+    margin: 1%;
+    background-color: rgb(79, 241, 241);
+    color: red;
+    border: 1px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.remove-button{
+    position: relative;
+    width: 70%;
+    font-size: 1.3rem;
+    margin-right: auto;
+    padding: 3px 0;
+    background-color: rgb(79, 241, 241);
+    color: red;
+    border: 1px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
